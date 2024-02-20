@@ -7,13 +7,11 @@
     box-sizing: border-box;
 } */
 
-html{
-    overflow-x: hidden;
-}
 
 body{
     background-color: #F5F7F8;
     font-family: 'Poppins' ;
+    overflow-x: hidden;
 }
 
 .menu{
